@@ -13,4 +13,4 @@
 
 ***Bold n italic***
 
-[Google](google.com)
+[Google](http://www.google.com/)
